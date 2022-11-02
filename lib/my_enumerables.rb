@@ -8,4 +8,5 @@ end
 # to this method
 class Array
   # Define my_each here
+  puts "hi"
 end
